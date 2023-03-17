@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\GitHub\SA_OSGI_FoodZilla\.metadata\.plugins\org.eclipse.jdt.core
+2777182754.index
+2539838519.index
+1746223132.index
+422099928.index
+1865797976.index
+2266625405.index
+1120743708.index
+60446317.index
