@@ -1,0 +1,45 @@
+package foodservicepublisher;
+
+import java.util.Scanner;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+import resturantdb.Database;
+import resturantdb.DatabaseImpl;
+
+public class FoodServiceInterfaceImpl implements FoodServiceInterface {
+	
+	private Connection connection = null;
+	private Statement statement = null;
+	private Database database;
+	private ResultSet resultSet;
+	
+	Scanner sc = new Scanner(System.in);
+
+	@Override
+	public void insertFood() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public double getFoodPriceById(int foodId) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public String getFoodNameById(int foodId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void getallfoodorder() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
