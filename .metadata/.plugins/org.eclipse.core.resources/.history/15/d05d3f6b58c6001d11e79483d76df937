@@ -1,0 +1,9 @@
+package demo3;
+
+import java.sql.Connection;
+
+public interface Database {
+
+	public Connection getDatabaseConnection();
+	
+}

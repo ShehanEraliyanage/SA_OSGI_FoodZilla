@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceRegistration"/>
+    <fullyQualifiedTypeName name="employeeproducer.EmployeeInterface"/>
+    <fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+    <fullyQualifiedTypeName name="org.osgi.framework.ServiceReference"/>
+    <fullyQualifiedTypeName name="fooditemproducer.FoodItemInterface"/>
+    <fullyQualifiedTypeName name="foodserviceproducer.FoodServiceInterface"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="reservationserviceproducer.ResturantServicePublish"/>
+</qualifiedTypeNameHistroy>

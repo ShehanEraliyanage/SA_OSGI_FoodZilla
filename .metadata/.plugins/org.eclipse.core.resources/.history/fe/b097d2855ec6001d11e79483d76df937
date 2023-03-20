@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Demo3
+Bundle-SymbolicName: RestaurantDB
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: restuarentdb.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: Demo3
+Export-Package: restuarentdb
+Import-Package: com.mysql.jdbc, org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: restuarentdb

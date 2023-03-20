@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FoodServiceProducer
+Bundle-SymbolicName: FoodServiceProducer
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: foodserviceproducer.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: FoodServiceProducer
+Import-Package: org.osgi.framework;version="1.3.0", restuarentdb
+Bundle-ActivationPolicy: lazy
